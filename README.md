@@ -1,12 +1,14 @@
 # Hi there, I'm Akash...! 👋
 
-## About Me
-
+About Me
 I am a passionate Deep Learning Engineer, currently specializing in Generative AI. My expertise lies in developing innovative solutions through Python coding.
 
-- 🌱 I'm constantly exploring new advancements in Deep Learning and Generative AI.
-- 📫 Reach out to me: askamble1891@gmail.com, [LinkedIn](https://www.linkedin.com/in/akash-kamble-a5125221a/)
-
+🌱 I'm constantly exploring new advancements in Deep Learning and Generative AI.
+🧠 Strong understanding of machine learning algorithms and data structures.
+📊 Experienced in data preprocessing, feature engineering, and model evaluation.
+🤖 Skilled in developing and deploying machine learning models.
+💡 Innovative problem-solver with a knack for finding efficient solutions to complex challenges.
+📈 Adept at conducting thorough research and staying updated with the latest AI trends and technologies.
 ## Tech Stack
 
 - **Languages:** Python, C, JavaScript
