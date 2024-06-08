@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate DeepLearning Engineer from India</h3>
 
-I am a passionate Deep Learning, currently specializing in Generative AI. My expertise lies in developing innovative solutions through Python coding.
 
 🌱 I'm constantly exploring new advancements in Deep Learning and Generative AI.
 
