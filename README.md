@@ -42,7 +42,7 @@
 ![scipy](https://img.shields.io/badge/-Scipy-000?&logo=scipy)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV?logoColor=0%2C0%2C0&color=rgb(0%2C0%2C0))
+![OpenCV](https://img.shields.io/badge/OpenCV-blue)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
 ![sklearn](https://img.shields.io/badge/-sklearn-000?&logo=scikit-learn)
 
